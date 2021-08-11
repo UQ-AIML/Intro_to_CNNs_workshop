@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data/
+our_model.ptcnn
